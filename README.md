@@ -1,7 +1,7 @@
 
 # 👨‍💻 Md. Asiqur Rahman Khan  
 
-**Full-Stack Software Engineer**  
+**Full-Stack Software Engineer | Asp.Net | Node JS | React JS | Python**  
 **Location:** Dhaka, Bangladesh  
 
 🌟 **Versatile and results-driven software engineer** with extensive experience in the banking domain. I specialize in designing, developing, and deploying high-quality software solutions. With a proven track record of delivering innovative and scalable projects, I am committed to technical excellence and driving impactful results for organizations.  
