@@ -10,10 +10,10 @@
 
 ## 🛠️ **Skill Set**  
 
-- **Programming Languages:** C#, JavaScript, Python, Java  
-- **Frameworks & Libraries:**  ASP.NET Core, Node.js, React
-- **Database Management:** SQL Server, MySQL, Oracle
-- **DevOps Tools:** Docker, Git  
+- **Programming Languages:** C#, JavaScript, Python, Typescript  
+- **Frameworks & Libraries:**  ASP.NET Core, Node.js, React, Angular
+- **Database Management:** SQL Server, MySQL, Oracle, PostgreSql
+- **DevOps Tools:** Git  
 - **Cloud Platforms:** AWS
 - **Other Expertise:**  
   - API Development & Integration  
