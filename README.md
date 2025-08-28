@@ -68,15 +68,6 @@
 
 ---
 
-## 🔗 **Links to Live Projects**  
-
-- [Core Banking System](https://url.braintechsolution.com/cb)  
-- [Admin Dashboard](https://url.braintechsolution.com/ad)  
-- [Customer Dashboard](https://url.braintechsolution.com/cd)  
-- [Portfolio Analysis Tool](https://url.braintechsolution.com/pa)  
-
----
-
 ## 🌐 **Find Me Online**  
 
 - **GitHub:** [asiqur-rahman](https://github.com/asiqur-rahman)  
