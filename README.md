@@ -2,19 +2,17 @@
 Senior Software Engineer · AI PM · Vibe Coder
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-asiqur--rahman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-asiqur--rahman-181717?style=flat-square&logo=github&logoColor=white)
-![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-visit-3b82f6?style=flat-square&logo=googlechrome&logoColor=white)
-![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-00C853?style=flat-square&logo=googlemaps&logoColor=white)
+![Email](https://img.shields.io/badge/Email-asiqur.rahman.khan.0@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-asiqur.braintechsolution.com-3b82f6?style=flat-square&logo=googlechrome&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=asiqur-rahman&color=3b82f6&style=flat-square&label=Profile+Views)
-> **7+ years** of professional experience building enterprise banking systems, AI-powered applications, and scalable full-stack platforms. Strong advocate of **Vibe Coding** — shipping production systems rapidly using Claude, OpenAI, MCP & AI Agents.
 ---
 🧑‍💻 About Me
 🏢 Currently → Senior Software Engineer & AI PM @ Bengal Mobile QA Solution (BMQAS) (Hybrid)
 🏦 Previously → Software Engineer @ Datasoft Systems Bangladesh (5 years · On-site)
-⚡ Strong advocate of Vibe Coding — building production-grade systems at speed with AI assistance
+⚡ Strong advocate of Vibe Coding — building production systems fast using Claude, OpenAI & AI Agents
 🤖 Specialized in AI Agents, MCP (Model Context Protocol), LLM Orchestration & Agentic Workflows
 🔐 Deep expertise in Biometric Auth, OCR Pipelines, eKyc & Banking Systems
-🎓 BSc in CSE from AIUB — CGPA 3.87 / 4.00
+🎓 BSc in CSE @ AIUB — CGPA 3.87 / 4.00
 🏆 IEEE Best Paper Award · Best Creative Developer · Championship in Learnathon
 ---
 🛠️ Tech Stack
@@ -32,17 +30,17 @@ Frameworks & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ⚡ Vibe Coding & AI Engineering
-![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97706?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Anthropic-D97706?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Deepseek](https://img.shields.io/badge/Deepseek--r1-4F46E5?style=flat-square&logoColor=white)
+![Deepseek](https://img.shields.io/badge/Deepseek_r1-4F46E5?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![MCP](https://img.shields.io/badge/MCP_(Model_Context_Protocol)-3b82f6?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Model_Context_Protocol-3b82f6?style=flat-square&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-10b981?style=flat-square&logoColor=white)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-f43f5e?style=flat-square&logoColor=white)
 ![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-8b5cf6?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-06b6d4?style=flat-square&logoColor=white)
-![Tool Calling](https://img.shields.io/badge/Tool_%26_Function_Calling-0891b2?style=flat-square&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_and_Function_Calling-0891b2?style=flat-square&logoColor=white)
 ![Phi](https://img.shields.io/badge/Phi-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=flat-square&logoColor=white)
 Databases
@@ -54,21 +52,21 @@ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI_CD-0A0A0A?style=flat-square&logo=gitlab&logoColor=white)
 ![SEQ](https://img.shields.io/badge/SEQ_Logging-555555?style=flat-square&logoColor=white)
 ---
 💼 Work Experience
-🟢 Bengal Mobile QA Solution (BMQAS) — Senior Software Engineer & AI PM
-`Aug 2025 – Present` · Dhaka, Bangladesh · Hybrid
+🟢 Bengal Mobile QA Solution (BMQAS)
+Senior Software Engineer & AI PM · `Aug 2025 – Present` · Dhaka, Bangladesh · Hybrid
 Project	Description	Stack
-Hope Project 🤖	Offline-first doctor & nurse service delivery platform for rural areas	Next.js · React · PostgreSQL
+Hope Project 🤖	Offline-first doctor & nurse service delivery platform	Next.js · React · PostgreSQL
 Trickle Up 🤖	Rural course management tool for grassroots communities	Next.js · React · PostgreSQL
 Proactive Alerting 🤖	Real-time intelligent alerting & monitoring system	Next.js · React · PostgreSQL
 Jazzware	Silicon-based hospitality management system	Asp.Net · MSSQL · PostgreSQL
-> 🤖 = Acting as AI PM
+🤖 = Acting as AI PM
 ---
-🔵 Datasoft Systems Bangladesh Limited — Software Engineer
-`Oct 2020 – Jul 2025` · Dhaka, Bangladesh · On-site
+🔵 Datasoft Systems Bangladesh Limited
+Software Engineer · `Oct 2020 – Jul 2025` · Dhaka, Bangladesh · On-site
 Project	Description	Stack
 Agent Banking	Full banking platform — transactions, accounts & loan processing	Asp.Net Core · MSSQL · Oracle
 eKyc	Automated identity verification & digital onboarding	Asp.Net Core · MSSQL · Oracle
@@ -77,12 +75,12 @@ CoreProxyGateway	Centralized API gateway for microservices (Sole Developer)	Asp.
 Video eKyc	Real-time video identity verification with face-matching	Node.js · React · MySQL
 OCR & Liveness Check	NID card OCR & liveness detection for fraud prevention	Python · OpenCV
 ---
-🟣 Freelance Software Engineer — Fiverr · Upwork
-`Feb 2019 – Jan 2025` · Remote · Worldwide · 20+ Projects Delivered
+🟣 Freelance — Fiverr & Upwork
+Freelance Software Engineer · `Feb 2019 – Jan 2025` · Remote · Worldwide · 20+ Projects
 Project	Description	Stack
 Chatika — AI Chatbot	AI customer support bot powered by OpenAI & Deepseek-r1	Next.js · React · OpenAI · MySQL
 Training Management System	Course enrollment, payments & progress tracking	Next.js · React · Node.js · MySQL
-OMR Checker	Automated OMR sheet processing for large-scale exams	Python · OpenCV
+OMR Checker	Automated OMR sheet processing for exams	Python · OpenCV
 TMB Mortgage Broking	Digital mortgage application & approval platform	React · Node.js · MySQL
 ---
 🏆 Honors & Awards
@@ -111,7 +109,7 @@ Best Paper — IEEE Conference Publication	IEEE	2022
 🧩 Areas of Expertise
 		
 📋 Project Management	🔍 Proficient Troubleshooting	🔄 Scrum & Agile
-🧩 Software Development Lifecycle	👥 Team Leadership & Supervision	🌐 Web Application Design
+🧩 SDLC	👥 Team Leadership	🌐 Web Application Design
 ⚡ Vibe Coding	🤖 AI Agent Development	🔗 MCP & LLM Orchestration
 🛠️ Technical Process Improvement	🔐 Biometric & OCR Systems	🏦 Banking & FinTech
 ---
