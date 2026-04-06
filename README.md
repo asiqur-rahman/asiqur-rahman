@@ -15,20 +15,23 @@ Software engineer with strong experience in banking, FinTech, and regulated iden
 
 ## Technical skills
 
+**AI & automation**  
+OpenAI and other LLM APIs (including Anthropic and similar providers), agent workflows, MCP (Model Context Protocol), orchestration, prompt and tool-use patterns, local inference where appropriate (e.g. Ollama); Hugging Face and lightweight fine-tuning tooling in project contexts
+
 **Languages**  
 C#, JavaScript, TypeScript, Python, SQL
 
-**Application & API**  
-ASP.NET Core, Node.js, React, Next.js, Angular, NestJS, Express
+**Web & backend**  
+ASP.NET Core, ASP.NET, Node.js, React, Next.js
 
 **Data**  
 Microsoft SQL Server, MySQL, PostgreSQL, Oracle
 
-**Platform & delivery**  
-AWS, Docker, Kubernetes, Git, GitHub Actions, CI/CD, SEQ
+**Computer vision**  
+OpenCV (OCR, document capture, liveness, OMR)
 
-**AI & automation**  
-LLM APIs (OpenAI, Anthropic, and related stacks), agent workflows, MCP (Model Context Protocol), orchestration, prompt and tool-use patterns, local inference where appropriate (e.g. Ollama); experience with Hugging Face and lightweight fine-tuning tooling in project contexts
+**Platform & delivery**  
+Git, Yarn, Docker, Kubernetes (Udemy — in progress), AWS, GitHub Actions, CI/CD, SEQ
 
 ---
 
@@ -41,10 +44,10 @@ August 2025 – present · Dhaka, Bangladesh · Hybrid
 
 | Project | Scope | Technologies |
 | --- | --- | --- |
+| Jazzware | Hospitality management | ASP.NET, MSSQL, PostgreSQL |
 | Hope | Offline-first doctor and nurse service delivery | Next.js, React, PostgreSQL |
 | Trickle Up | Rural course management for grassroots programmes | Next.js, React, PostgreSQL |
 | Proactive Alerting | Real-time alerting and monitoring | Next.js, React, PostgreSQL |
-| Jazzware | Hospitality management | ASP.NET, MSSQL, PostgreSQL |
 
 *Selected initiatives included AI and product delivery ownership.*
 
