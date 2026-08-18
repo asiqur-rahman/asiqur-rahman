@@ -110,10 +110,7 @@ Project Management · Proficient Troubleshooting · Scrum & Agile Methodology ·
 
 ## GitHub activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiqur-rahman&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&title_color=1a1a1a&icon_color=555555" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiqur-rahman&layout=compact&theme=swift&hide_border=true&langs_count=6&title_color=1a1a1a" height="165" alt="Top languages" />
-</p>
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=asiqur-rahman&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
