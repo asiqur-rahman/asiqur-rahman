@@ -3,7 +3,7 @@
 **Full-Stack Senior Software Engineer**  
 Dhaka, Bangladesh
 
-[LinkedIn](https://linkedin.com/in/asiqur-rahman) · [GitHub](https://github.com/asiqur-rahman) · [Portfolio](https://asiqur.braintechsolution.com) · [Email](mailto:asiqur.rahman.khan@outlook.com)
+[LinkedIn](https://linkedin.com/in/asiqur-rahman) · [GitHub](https://github.com/asiqur-rahman) · [Portfolio](https://asiqur-rahman.github.io) · [Email](mailto:asiqur.rahman.khan@outlook.com)
 
 ---
 
@@ -119,7 +119,7 @@ Project Management · Proficient Troubleshooting · Scrum & Agile Methodology ·
 
 ## Résumé
 
-**[Live CV](https://asiqur-rahman.github.io)**
+**[Live resume](https://asiqur-rahman.github.io)**
 
 For collaboration or roles aligned with full-stack engineering, FinTech, digital identity, healthcare platforms, or AI-enabled delivery, please use [email](mailto:asiqur.rahman.khan@outlook.com) or [LinkedIn](https://linkedin.com/in/asiqur-rahman).
 
