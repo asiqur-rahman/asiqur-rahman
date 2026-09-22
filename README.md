@@ -8,7 +8,7 @@
 
 ## Professional summary
 
-Full-Stack Senior Software Engineer with experience delivering banking, digital identity, healthcare, and AI-enabled web platforms. Focused on end-to-end product delivery, technical leadership, and building scalable systems that perform in production.
+Results-driven Full-Stack Senior Software Engineer experienced in building banking, digital identity, healthcare service, and AI-enabled web applications. Strong expertise in end-to-end product delivery, technical leadership, and scalable platform development.
 
 ---
 
@@ -18,8 +18,8 @@ Full-Stack Senior Software Engineer with experience delivering banking, digital 
 | --- | --- |
 | Programming & Frameworks | C#, JavaScript/TypeScript, Node.js, React, Python, SQL |
 | Databases | PostgreSQL, Microsoft SQL Server, MySQL, Oracle |
-| Cloud, DevOps & VCS | Docker, GitHub Actions, CI/CD, Git, GitHub, Bitbucket, Seq |
-| AI & Agentic Engineering | OpenAI API, OpenRouter, RAG, Vector Databases, LangSmith, MCP, Agentic AI, n8n |
+| Cloud, DevOps & Version Control | Docker, GitHub Actions, CI/CD, Git, GitHub, Bitbucket, Seq Structured Logging |
+| AI & Agentic Engineering | RAG, Vector Databases, LangSmith, MCP, Agentic AI, n8n |
 | AI Development Tools | Cursor, Claude Code, Codex, GitHub Copilot, Gemini CLI, KiloCode |
 
 ---
@@ -52,7 +52,7 @@ Full-Stack Senior Software Engineer with experience delivering banking, digital 
 | --- | --- | --- |
 | OCR Service and Liveliness Check | Sole developer for National ID OCR and liveness detection for fraud prevention | Python |
 | Chatika – AI Bot | Sole developer for AI-powered customer support and account management | Node.js, React, MySQL, OpenAI, DeepSeek-R1 |
-| Training Management System | Course enrollment, payment gateway, and progress tracking | React.js, Node.js, MySQL |
+| Training Management System with Payment Gateway | Course enrollment, payment gateway, and progress tracking | React.js, Node.js, MySQL |
 | OMR Checker | Automated OMR exam evaluation | Python |
 
 ---
@@ -62,7 +62,6 @@ Full-Stack Senior Software Engineer with experience delivering banking, digital 
 | Degree | Institution | Period | Result |
 | --- | --- | --- | --- |
 | BSc in Computer Science and Engineering | American International University-Bangladesh (AIUB) | 2017 – 2020 | CGPA 3.87 / 4.00 |
-| Higher Secondary School Certificate | Dhaka Residential Laboratory College | 2014 – 2016 | GPA 5.00 / 5.00 |
 
 ---
 
