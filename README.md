@@ -42,6 +42,7 @@ Results-driven Full-Stack Senior Software Engineer experienced in building banki
 | Project                        | Contribution                                                                         | Stack                                                         |
 | ------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | DPP (Digital Product Passport) | AI PM and senior engineer for a digital product licensing platform                   | ASP.NET Core, Node.js, Python, React, PostgreSQL, Drizzle ORM |
+| Khotian (ERP)                  | Forward deployed engineer and full-stack engineer for an ERP platform                | ASP.NET Core, Node.js, Python, React, PostgreSQL, Drizzle ORM |
 | Jazzware                       | Senior engineer for hospitality operations: reservations, billing, front office, PBX | ASP.NET Core, Progress 4GL, PostgreSQL                        |
 | Ontor Care                     | AI PM and technical lead for nurse services with doctor appointment support          | Node.js, React, PostgreSQL, Drizzle ORM                       |
 
