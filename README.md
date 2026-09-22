@@ -1,6 +1,6 @@
 # Md. Asiqur Rahman Khan
 
-**Full-Stack Senior Software Engineer** · Dhaka, Bangladesh
+**Full-Stack Senior Software Engineer, Forward Deployed Engineer** · Dhaka, Bangladesh
 
 [LinkedIn](https://linkedin.com/in/asiqur-rahman) · [GitHub](https://github.com/asiqur-rahman) · [Live Resume](https://asiqur-rahman.github.io) · [Email](mailto:asiqur.rahman.khan@outlook.com)
 
@@ -8,7 +8,7 @@
 
 ## Professional summary
 
-Results-driven Full-Stack Senior Software Engineer experienced in building banking, digital identity, healthcare service, and AI-enabled web applications. Strong expertise in end-to-end product delivery, technical leadership, and scalable platform development.
+Results-driven Full-Stack Senior Software Engineer experienced in building banking, digital identity, healthcare service, and AI-enabled web applications. Strong expertise in end-to-end product delivery, technical leadership, and scalable platform development—including core banking, eKYC, biometrics, OCR, and APIs—where AI tools and agents accelerate design, implementation, and operations without compromising security or clarity.
 
 ---
 
