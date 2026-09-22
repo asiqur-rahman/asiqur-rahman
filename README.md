@@ -8,7 +8,7 @@
 
 ## Professional summary
 
-Results-driven Full-Stack Senior Software Engineer experienced in building banking, digital identity, healthcare service, and AI-enabled web applications. Strong expertise in end-to-end product delivery, technical leadership, and scalable platform development—including core banking, eKYC, biometrics, OCR, and APIs—where AI tools and agents accelerate design, implementation, and operations without compromising security or clarity.
+Results-driven Full-Stack Senior Software Engineer building banking, digital identity, healthcare, and AI-enabled web applications. Strong expertise in end-to-end product delivery, technical leadership, and scalable platforms—using AI tools and agents to accelerate design and implementation without compromising security or clarity.
 
 ---
 
@@ -31,6 +31,7 @@ Results-driven Full-Stack Senior Software Engineer experienced in building banki
 
 | Project | Contribution | Stack |
 | --- | --- | --- |
+| Khotian (ERP) | Forward Deployed Engineer and full-stack engineer; migrated existing ERP with full AI features | ASP.NET Core, Node.js, Python, React, PostgreSQL, Drizzle ORM |
 | DPP (Digital Product Passport) | AI PM and senior engineer for a digital product licensing platform | ASP.NET Core, Node.js, Python, React, PostgreSQL, Drizzle ORM |
 | Jazzware | Senior engineer for hospitality operations: reservations, billing, front office, PBX | ASP.NET Core, Progress 4GL, PostgreSQL |
 | Ontor Care | AI PM and technical lead for nurse services with doctor appointment support | Node.js, React, PostgreSQL, Drizzle ORM |
